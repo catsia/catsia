@@ -1,9 +1,14 @@
-##Katya Lemeshevskaya
-@oshiitbochka in telegram
+###Katya Lemeshevskaya
+
+How to reach me: @oshiitbochka in telegram
+
 >Great things come from great mistakes
+
 Java (Sping Boot, Hibernate), C++, Unity 
-Pet and course projects, small games
-Currently leraning at BSUIR
+
+I'm currently working on pet and course projects, small games
+
+Leraning at BSUIR
 
 <!--
 **catsia/catsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
