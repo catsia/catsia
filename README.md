@@ -8,7 +8,7 @@ Java (Sping Boot, Hibernate), C++, Unity
 
 I'm currently working on pet and course projects, small games
 
-Leraning at BSUIR
+Learning at BSUIR
 
 <!--
 **catsia/catsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
