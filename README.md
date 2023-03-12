@@ -4,9 +4,7 @@ How to reach me: @oshiitbochka in telegram
 
 >Great things come from great mistakes
 
-Java (Sping Boot, Hibernate), C++, Unity 
-
-I'm currently working on pet and course projects, small games
+Java (Hibernate), C++, Unity 
 
 Learning at BSUIR
 
