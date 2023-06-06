@@ -2,10 +2,6 @@
 
 How to reach me: @oshiitbochka in telegram
 
->Great things come from great mistakes
-
-Java (Hibernate), C++, Unity 
-
 Learning at BSUIR
 
 <!--
