@@ -2,8 +2,6 @@
 
 How to reach me: @oshiitbochka in telegram
 
-Learning at BSUIR
-
 <!--
 **catsia/catsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
